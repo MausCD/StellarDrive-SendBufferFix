@@ -3,7 +3,7 @@
   "name": "SendBufferFix",
   "author": "MausCD",
   "version": "1.0.0",
-  "description": "Tries Fixes k_EResultLimitExceeded by expanding Steam send buffer",
+  "description": "Tries fixing k_EResultLimitExceeded by expanding Steam send buffer",
   "thumbnail": "thumbnail.png",
   "images": [],
   "ai": "ai-assisted",
