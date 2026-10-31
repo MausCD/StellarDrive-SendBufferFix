@@ -1,6 +1,6 @@
 {
-  "id": "sebdbufferfix",
-  "name": "SebdBufferFix",
+  "id": "sendbufferfix",
+  "name": "SendBufferFix",
   "author": "MausCD",
   "version": "1.0.0",
   "description": "Tries Fixes k_EResultLimitExceeded by expanding Steam send buffer",
