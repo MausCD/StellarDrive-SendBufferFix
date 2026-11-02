@@ -2,7 +2,7 @@
   "id": "sendbufferfix",
   "name": "SendBufferFix",
   "author": "MausCD",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Tries fixing k_EResultLimitExceeded for modded sessions by expanding buffer and send rates. Every Player needs this Mod.",
   "thumbnail": "thumbnail.png",
   "images": [],
